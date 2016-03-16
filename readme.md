@@ -1,7 +1,7 @@
 # Bench Rest Test
 
 ## see it live
-[https://michaelrhodes.github.io/resttest](michaelrhodes.github.io/resttest)
+[https://michaelrhodes.github.io/resttest](https://michaelrhodes.github.io/resttest)
 
 ## or install and run for yourself
 
