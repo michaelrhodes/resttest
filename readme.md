@@ -6,8 +6,8 @@
 ## or install and run for yourself
 
 ```sh
-$ git clone git@github.com:michaelrhodes/rest-test
-$ cd rest-test
+$ git clone git@github.com:michaelrhodes/resttest
+$ cd resttest
 $ npm install
 $ npm run build
 $ open index.html
