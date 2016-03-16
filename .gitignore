@@ -1,0 +1,3 @@
+node_modules/*
+src/lib/data.js
+src/lib/get-all-transactions-mock.js
