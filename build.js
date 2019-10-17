@@ -427,7 +427,7 @@ module.exports = function (url, cb) {
 }
 
 },{}],15:[function(require,module,exports){
-var template = 'http://resttest.bench.co/transactions/:page.json'
+var template = 'https://resttest.bench.co/transactions/:page.json'
 
 module.exports = function (number) {
   return template.replace(':page', number)
